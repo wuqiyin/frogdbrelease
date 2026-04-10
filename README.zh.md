@@ -1,3 +1,5 @@
+# FrogDb
+
 [中文](./README.zh.md) | [English](./README.md)
 
 FrogDB 是一款现代化桌面 SQL 查询客户端。
