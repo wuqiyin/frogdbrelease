@@ -1,5 +1,7 @@
 # FrogDB
 
+[中文](./README.zh.md) | [English](./README.md)
+
 FrogDB is a modern desktop SQL workspace for MySQL teams.
 <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/eb1acca7-6a0c-466d-898e-a0f94d70a145" />
 
