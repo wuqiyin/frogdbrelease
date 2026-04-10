@@ -98,7 +98,40 @@ UPDATE `uto_config` SET `cfg` = NULL, `created_at` = '2025-06-18 16:30:39', `id`
 DELETE FROM `uto_config` WHERE `id` = 13;
 ```
 
+### 快速隐藏字段
+
+支持快速隐藏表字段
+
+<img width="988" height="665" alt="image" src="https://github.com/user-attachments/assets/adad0f3c-54d5-40eb-89a7-6322d5822b26" />
+
+### 快速搜索结果
+
+支持快速筛选结果
+
+<img width="963" height="674" alt="image" src="https://github.com/user-attachments/assets/ea97e6ca-cd43-47ee-bf18-d4c18fd5381a" />
+
+
+### 支持脚本
+
+可以保存脚本
+
+<img width="1236" height="721" alt="image" src="https://github.com/user-attachments/assets/7d21b944-e551-41a4-9203-ab15b8277bdd" />
+
+可以添加代码片段
+
+<img width="1236" height="721" alt="image" src="https://github.com/user-attachments/assets/b211d7e3-fc5f-4d32-9a71-3b8fdfb3926f" />
+
+
+### 支持图表
+
+支持查看图表，这个功能对数据分析很重要
+
+<img width="1228" height="648" alt="image" src="https://github.com/user-attachments/assets/6ad790cb-1fa3-45b0-830e-4966c962d875" />
+
+
 ### 其他
+
+还有其他很多人性化的功能，欢迎大家自己探索
 
 - 多连接工作区，支持持久化的连接配置文件
 - 通过可选的 SSH 隧道配置实现安全的远程访问
@@ -107,6 +140,7 @@ DELETE FROM `uto_config` WHERE `id` = 13;
 - 数据库和表探索，配备结果面板和行级详情视图
 - 支持脚本和查询工作流，提供标签页式项目上下文
 - 可视化 UX 增强，如搜索面板、过滤工具和快速导航对话框
+- 等等
 
 ## 核心优势
 
