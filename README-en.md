@@ -4,6 +4,8 @@
 
 FrogDB is a modern desktop SQL query client.
 
+The official website address is: [https://db.vloam.com](https://db.vloam.com)
+
 There are already many SQL query clients on the market, so why develop a new one? The core reason is that existing SQL query clients generally have many pain points that affect user experience and work efficiency:
 
 1. Lack of workspace isolation, resulting in table searches or scripts in the SQL console that cannot accurately target a specific database, leading to chaotic usage;
